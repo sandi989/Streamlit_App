@@ -18,7 +18,8 @@ st.write(
     unsafe_allow_html=True
 )
 
-PAGE_TITLE = "CV | Sandi Hendrawan"
+
+PAGE_TITLE = "CV | Sandi Hendrawan ."
 NAMA = 'SANDI HENDRAWAN'
 DESKRIPSI = 'Perkenalkan saya Sandi Hendrawan, saya merupakan lulusan dari Universitas Atma Jaya Yogyakarta program studi Informatika yang memiliki kemampuan dalam query pada database, data science, dan PHP.'
 EMAIL = 'sandi898hendrawan'
