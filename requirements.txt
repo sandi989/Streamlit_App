@@ -2,3 +2,7 @@ streamlit
 matplotlib 
 pandas
 matplotlib
+seaborn
+numpy
+Path
+pathlib
