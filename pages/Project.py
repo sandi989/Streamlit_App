@@ -30,7 +30,7 @@ import base64
 from pathlib import Path
 
 
-# nltk.download('popular')
+nltk.download('popular')
 st.set_page_config(layout="wide")
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
